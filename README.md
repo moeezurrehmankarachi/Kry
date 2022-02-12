@@ -34,7 +34,7 @@ The database docker suggested in the Task document is used. init.sql is also att
 
 <br>
 Technologies:<br>
-All projects are Spring projects running with reactor project, Spring Webflux. The WebApp has an extra layer of presentation using Vaadin 14 flow.<br/>
+All projects are Java 11, Spring projects running with reactor project, Spring Webflux. The WebApp has an extra layer of presentation using Vaadin 14 flow.<br/>
 </br>
 
 <br/>
