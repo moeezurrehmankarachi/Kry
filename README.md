@@ -32,6 +32,11 @@ Database:<br>
 The database docker suggested in the Task document is used. init.sql is also attached.<br/>
 </br>
 
+<br>
+Technologies:<br>
+All projects are Spring projects running with reactor project, Spring Webflux. The WebApp has an extra layer of presentation using Vaadin 14 flow.<br/>
+</br>
+
 <br/>
 
 Note: External services is used for the term service from the task document to make it clear as Spring uses the term services extensively. The site https://www.google.com might not return result in time if you set the timeout too short, in regards to Tests.
