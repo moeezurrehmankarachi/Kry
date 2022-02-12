@@ -27,4 +27,9 @@ The web application is a Spring Application and is using Vaadin 14 Flow as the p
 
 <br>The solutions is to keep specific requirements segregated so as if a specific application goes down it does not put the entire system in unavailable state.<br/>
 
+<br>
+Database:<br>
+The database docker suggested in the Task document is used. init.sql is also attached.<br/>
+</br>
+
 <br/>
