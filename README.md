@@ -33,3 +33,5 @@ The database docker suggested in the Task document is used. init.sql is also att
 </br>
 
 <br/>
+
+Note: External services is used for the term service from the task document to make it clear as Spring uses the term services extensively. The site https://www.google.com might not return result in time if you set the timeout too short, in regards to Tests.
